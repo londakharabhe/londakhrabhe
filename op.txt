@@ -1,0 +1,3 @@
+       "ip":"Sparky_Playz.aternos.me"
+       "port":"43646"
+       "name":"chadi"
